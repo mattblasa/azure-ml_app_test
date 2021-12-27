@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'makotoAQI-dev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E378617A3B242E5B9BA5418558AFBD9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4F8197D7DEB4786BCD3439D87C860CD }}
